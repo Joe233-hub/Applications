@@ -2,7 +2,7 @@
 /**
  * Write a description of class Car here.
  *
- * @author (your name)
+ * @author (Joe SParkes)
  * @version (a version number or a date)
  */
 public class Car
